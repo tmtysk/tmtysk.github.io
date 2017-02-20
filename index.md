@@ -8,13 +8,15 @@ layout: default
 
 ### 現任
 
-* [株式会社ビルディット](http://bldt.jp) 代表取締役 (2016/3〜)
-* [株式会社ネクステージ](http://i-nextage.co.jp) 技術顧問 (2016/4〜)
+* [株式会社ビルディット](http://bldt.jp) 代表取締役プログラマ (2016/3〜)
+* [クーガー株式会社](http://www.couger.co.jp/) ロボティクスエンジニア (2016/11〜)
+* [株式会社ピースオブケイク](https://www.pieceofcake.co.jp/) プロジェクトマネージャ (2016/9〜)
 * [Emoted](http://emoted.in) 代表 (2012/1〜)
 * [舞台芸術制作者オープンネットワーク](http://onpam.net) 広報室 (2013/4〜)
 
 ### 過去
 
+* [株式会社ネクステージ](http://i-nextage.co.jp) 技術顧問 (2016/4〜2016/12)
 * [コーチ・ユナイテッド株式会社](http://cunited.jp) 技術責任者 (2014/1〜2016/6)
 * [Banana Systems株式会社](http://banana.systems/) 取締役 (2009/3〜2013/12)
 * [KLab株式会社](http://www.klab.com/) システムエンジニア (2005/7〜2008/1)
