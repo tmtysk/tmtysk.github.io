@@ -8,7 +8,8 @@ layout: default
 
 ### 現任
 
-* [株式会社ビルディット](http://bldt.jp) 代表取締役プログラマ (2016/3〜)
+* [株式会社ウーシア](https://ousia.me) 取締役CTO (2017/8〜)
+* [株式会社ビルディット](https://bldt.jp) 代表取締役プログラマ (2016/3〜)
 * [クーガー株式会社](http://www.couger.co.jp/) ロボティクスエンジニア (2016/11〜)
 * [株式会社ピースオブケイク](https://www.pieceofcake.co.jp/) プロジェクトマネージャ (2016/9〜)
 * [Emoted](http://emoted.in) 代表 (2012/1〜)
