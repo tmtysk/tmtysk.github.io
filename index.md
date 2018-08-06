@@ -51,6 +51,7 @@ layout: default
 
 ## メディア掲載
 
+* [常駐型デジタルプロフェッショナルサービスのメンバーズキャリア、技術顧問体制を強化](https://prtimes.jp/main/html/rd/p/000000001.000036425.html)
 * [手段の目的化を目指す！八王子で技術に集中する株式会社ビルディットさんにお伺いしてきました](http://lantern.builderscon.io/entry/2017/05/22/090000)
 * [多摩のビジネスマッチング情報誌 たまNAVI 創業企業特集](https://ebook.ebook7.jp/html/tamashin/2841/#8)
 * [ASCII.jp：SendGridユーザーが語る！メール大量配信のここが落とし穴 (1/3)](http://ascii.jp/elem/000/001/124/1124296/)
@@ -62,7 +63,7 @@ layout: default
 
 * [Service Worker Hackathon (2015)](https://developers-jp.googleblog.com/2015/03/service-worker.html) - Appiness賞
 * [モバイルプロジェクト・アワード (2012)](https://www.mcf.or.jp/mpa/2012/winner/index.htm) - モバイルコンテンツ部門最優秀賞 / パズル＆ドラゴンズ サーバサイド開発
-* [MILLENNIUM XML WWWページコンテスト (2000)](http://www.xml.gr.jp/event/2000contest/contest.html) - 三席(佳作) / SPML
+* [MILLENNIUM XML WWWページコンテスト (2000)](http://www.xml.gr.jp/event/2000contest/contest.html) - 三席(佳作) / Slides for Presentation Markup Language
 
 ## 連絡先
 
