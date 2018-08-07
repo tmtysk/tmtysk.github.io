@@ -10,7 +10,8 @@ layout: default
 
 * [株式会社ウーシア](https://ousia.me) 取締役CTO (2017/8〜)
 * [株式会社ビルディット](https://bldt.jp) 代表取締役プログラマ (2016/3〜)
-* [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜) * [クーガー株式会社](http://www.couger.co.jp/) ロボティクスエンジニア (2016/11〜)
+* [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜)
+* [クーガー株式会社](http://www.couger.co.jp/) ロボティクスエンジニア (2016/11〜)
 * [Emoted](http://emoted.in) 代表 (2012/1〜)
 
 ### 過去
