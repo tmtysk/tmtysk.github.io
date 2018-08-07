@@ -10,8 +10,7 @@ layout: default
 
 * [株式会社ウーシア](https://ousia.me) 取締役CTO (2017/8〜)
 * [株式会社ビルディット](https://bldt.jp) 代表取締役プログラマ (2016/3〜)
-* [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜)
-* [クーガー株式会社](http://www.couger.co.jp/) ロボティクスエンジニア (2016/11〜)
+* [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜) * [クーガー株式会社](http://www.couger.co.jp/) ロボティクスエンジニア (2016/11〜)
 * [Emoted](http://emoted.in) 代表 (2012/1〜)
 
 ### 過去
@@ -52,6 +51,11 @@ layout: default
 * [Startup Weekend Tokyo Women (2014)](https://swtokyo.doorkeeper.jp/) - メンター参加
 * [Google Startup Tech Night #1 - エンジニアtype様紹介記事 (2014)](http://engineer.typemag.jp/article/startuptechnight) - LT発表
 * [管理画面チラ見せ♡ナイト #1 - geechs magazine 様紹介記事 (2014)](http://geechs-magazine.com/2685) - 登壇発表
+
+## 舞台・公演
+
+* [スマホガリ (2013)](http://emoted.in/post/50909538425/) - 脚本・演出・役者
+* [劇団横浜スタイル 公演 ハナウタ商店街へようこそ (2007)](https://www.hamakei.com/headline/2901/) - 役者
 
 ## メディア掲載
 
