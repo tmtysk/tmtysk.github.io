@@ -36,6 +36,7 @@ layout: default
 
 ## 登壇・発表・講師
 
+* [第1回ゆるはち.it: PWAについてゆるく話す (2018)](https://yuruhachi-it.connpass.com/event/96878/) - 発表
 * [高専キャリア #2 Hello worldに出品しよう！ (2018)](https://kosen-career.connpass.com/event/83381/) - 登壇発表
 * [エンジニア育成イベント (2017)](https://speakerdeck.com/tmtysk/enziniayu-cheng-falsechang-dukuriniguan-surujin-bu-gong-you) - 登壇発表
 * [東京工科大学 ものづくりサークル立ち上げイベント (2017)](https://www.facebook.com/builditinc/photos/a.387173854953558.1073741828.353885601615717/495393890798220/) - LT発表
