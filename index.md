@@ -11,6 +11,7 @@ layout: default
 * [株式会社ウーシア](https://ousia.me) 取締役CTO (2017/8〜)
 * [株式会社ビルディット](https://bldt.jp) 代表取締役プログラマ (2016/3〜)
 * [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜)
+* [ジギョナリーカンパニー株式会社](http://www.jigyonary.com/) 技術顧問/外部CTO (2019/2〜)
 * [クーガー株式会社](http://www.couger.co.jp/) ロボティクスエンジニア (2016/11〜)
 * [Emoted](http://emoted.in) 代表 (2012/1〜)
 
@@ -36,6 +37,7 @@ layout: default
 
 ## 登壇・発表・講師
 
+* [第4回ゆるはち.it: RailsでつくるモダンぽいWebサービスについてゆるく話す (2018)](https://yuruhachi-it.connpass.com/event/107596/) - 発表
 * [第1回ゆるはち.it: PWAについてゆるく話す (2018)](https://yuruhachi-it.connpass.com/event/96878/) - 発表
 * [高専キャリア #2 Hello worldに出品しよう！ (2018)](https://kosen-career.connpass.com/event/83381/) - 登壇発表
 * [エンジニア育成イベント (2017)](https://speakerdeck.com/tmtysk/enziniayu-cheng-falsechang-dukuriniguan-surujin-bu-gong-you) - 登壇発表
