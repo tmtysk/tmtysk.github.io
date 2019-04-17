@@ -37,6 +37,7 @@ layout: default
 
 ## 登壇・発表・講師
 
+* [第8回ゆるはち.it: CI/CDについてゆるく話す (2019)](https://yuruhachi-it.connpass.com/event/123888/) - 発表
 * [第4回ゆるはち.it: RailsでつくるモダンぽいWebサービスについてゆるく話す (2018)](https://yuruhachi-it.connpass.com/event/107596/) - 発表
 * [第1回ゆるはち.it: PWAについてゆるく話す (2018)](https://yuruhachi-it.connpass.com/event/96878/) - 発表
 * [高専キャリア #2 Hello worldに出品しよう！ (2018)](https://kosen-career.connpass.com/event/83381/) - 登壇発表
