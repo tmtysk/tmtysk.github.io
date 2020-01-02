@@ -12,11 +12,11 @@ layout: default
 * [株式会社ビルディット](https://bldt.jp) 代表取締役プログラマ (2016/3〜)
 * [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜)
 * [ジギョナリーカンパニー株式会社](http://www.jigyonary.com/) 技術顧問/外部CTO (2019/2〜)
-* [クーガー株式会社](http://www.couger.co.jp/) ロボティクスエンジニア (2016/11〜)
 * [Emoted](http://emoted.in) 代表 (2012/1〜)
 
 ### 過去
 
+* [クーガー株式会社](http://www.couger.co.jp/) ロボティクスエンジニア (2016/11〜2018/12)
 * [株式会社ピースオブケイク](https://www.pieceofcake.co.jp/) プロジェクトマネージャ (2016/9〜2018/5)
 * [株式会社ネクステージ](http://i-nextage.co.jp) 技術顧問 (2016/4〜2016/12)
 * [コーチ・ユナイテッド株式会社](http://cunited.jp) 技術責任者 (2014/1〜2016/6)
@@ -37,6 +37,11 @@ layout: default
 
 ## 登壇・発表・講師
 
+* [第17回ゆるはち.it: Rustについてゆるく話す (2019)](https://yuruhachi-it.connpass.com/event/158723/) - 発表
+* [日本の人事部 HRカンファレンス2019-秋- Techday (2019)](https://jinjibu.jp/hr-conference/report/r201911/report.php?sid=1706) - 事例発表
+* [第12回ゆるはち.it: スプレッドシート駆動開発についてゆるく話す (2019)](https://yuruhachi-it.connpass.com/event/137255/) - LT発表
+* [エンジニア × PRパーソン 「VUCA時代を生き抜くためのブランディング」 (2019)](https://connpass.com/event/137915/) - LT発表
+* [八王子ビジネスプランコンテスト (2019)](https://gp.8kikaku.com/) - 審査員参加
 * [第8回ゆるはち.it: CI/CDについてゆるく話す (2019)](https://yuruhachi-it.connpass.com/event/123888/) - 発表
 * [第4回ゆるはち.it: RailsでつくるモダンぽいWebサービスについてゆるく話す (2018)](https://yuruhachi-it.connpass.com/event/107596/) - 発表
 * [第1回ゆるはち.it: PWAについてゆるく話す (2018)](https://yuruhachi-it.connpass.com/event/96878/) - 発表
