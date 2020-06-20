@@ -11,11 +11,11 @@ layout: default
 * [株式会社ウーシア](https://ousia.me) 取締役CTO (2017/8〜)
 * [株式会社ビルディット](https://bldt.jp) 代表取締役プログラマ (2016/3〜)
 * [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜)
-* [ジギョナリーカンパニー株式会社](http://www.jigyonary.com/) 技術顧問/外部CTO (2019/2〜)
 * [Emoted](http://emoted.in) 代表 (2012/1〜)
 
 ### 過去
 
+* [ジギョナリーカンパニー株式会社](http://www.jigyonary.com/) 技術顧問/外部CTO (2019/2〜2019/12)
 * [クーガー株式会社](http://www.couger.co.jp/) ロボティクスエンジニア (2016/11〜2018/12)
 * [株式会社ピースオブケイク](https://www.pieceofcake.co.jp/) プロジェクトマネージャ (2016/9〜2018/5)
 * [株式会社ネクステージ](http://i-nextage.co.jp) 技術顧問 (2016/4〜2016/12)
@@ -37,6 +37,8 @@ layout: default
 
 ## 登壇・発表・講師
 
+* [第19回ゆるはち.it: ノンデザイナーのためのデザインについてゆるく話す (2020)](https://yuruhachi-it.connpass.com/event/174196/) - 発表
+* [Shizuoka.php #2 (2020)](https://shizuokaphp.connpass.com/event/158145/) - LT発表
 * [第17回ゆるはち.it: Rustについてゆるく話す (2019)](https://yuruhachi-it.connpass.com/event/158723/) - 発表
 * [日本の人事部 HRカンファレンス2019-秋- Techday (2019)](https://jinjibu.jp/hr-conference/report/r201911/report.php?sid=1706) - 事例発表
 * [第12回ゆるはち.it: スプレッドシート駆動開発についてゆるく話す (2019)](https://yuruhachi-it.connpass.com/event/137255/) - LT発表
@@ -62,13 +64,20 @@ layout: default
 * [Google Startup Tech Night #1 - エンジニアtype様紹介記事 (2014)](http://engineer.typemag.jp/article/startuptechnight) - LT発表
 * [管理画面チラ見せ♡ナイト #1 - geechs magazine 様紹介記事 (2014)](http://geechs-magazine.com/2685) - 登壇発表
 
+## ポッドキャスト
+
+* [ゆるはちVol.20について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol20)
+* [ゆるはちVol.19について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol19)
+
 ## 舞台・公演
 
 * [スマホガリ (2013)](http://emoted.in/post/50909538425/) - 脚本・演出・役者
 * [劇団横浜スタイル 公演 ハナウタ商店街へようこそ (2007)](https://www.hamakei.com/headline/2901/) - 役者
 
-## メディア掲載
+## メディア掲載・外部媒体紹介
 
+* [株式会社スマートアルゴリズム: 顧客インタビュー (2020)](https://smartalgorithm.co.jp/success/buildit/)
+* [八王子ジャーニー: エンジニア/クリエイターに八王子という選択肢を (2018)](https://8dabe.com/2018/12/11/bldt-2/)
 * [常駐型デジタルプロフェッショナルサービスのメンバーズキャリア、技術顧問体制を強化 (2018)](https://prtimes.jp/main/html/rd/p/000000001.000036425.html)
 * [手段の目的化を目指す！八王子で技術に集中する株式会社ビルディットさんにお伺いしてきました (2017)](http://lantern.builderscon.io/entry/2017/05/22/090000)
 * [多摩のビジネスマッチング情報誌 たまNAVI 創業企業特集 (2016)](https://ebook.ebook7.jp/html/tamashin/2841/#8)
