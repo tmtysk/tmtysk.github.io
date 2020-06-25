@@ -76,6 +76,7 @@ layout: default
 
 ## メディア掲載・外部媒体紹介
 
+* [ビジネス部デザイン課: 「ブログ発信」で応募数1.5倍増！中小SIerが挑んだデザイナー採用 (2020)](https://bizdez.vivivit.com/recruitment/280773)
 * [株式会社スマートアルゴリズム: 顧客インタビュー (2020)](https://smartalgorithm.co.jp/success/buildit/)
 * [八王子ジャーニー: エンジニア/クリエイターに八王子という選択肢を (2018)](https://8dabe.com/2018/12/11/bldt-2/)
 * [常駐型デジタルプロフェッショナルサービスのメンバーズキャリア、技術顧問体制を強化 (2018)](https://prtimes.jp/main/html/rd/p/000000001.000036425.html)
