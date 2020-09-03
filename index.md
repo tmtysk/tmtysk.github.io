@@ -31,6 +31,7 @@ layout: default
 
 ## 著書・執筆・寄稿
 
+* [社内研修の評価及び人材育成の効率化を目的とした社内SNSの分析(研究報告コンピュータと教育（CE）) (2020)](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=204195&item_no=1&page_id=13&block_id=8)
 * [Ruby on Rails携帯サイト開発技法(ソフトバンククリエイティブ刊) (2010)](http://www.amazon.co.jp/dp/4797358785)
 * [初めてのRailsアプリケーション開発(@IT) (2009)](http://www.atmarkit.co.jp/fcoding/articles/3rdrail/01/3rdrail01a.html)
 * [ケータイのセキュリティ機能を引き出そう(JAVA PRESS Vol.19) (2001)](http://gihyo.jp/magazine/javapress)
@@ -66,8 +67,9 @@ layout: default
 
 ## ポッドキャスト
 
-* [ゆるはちVol.20について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol20)
-* [ゆるはちVol.19について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol19)
+* [ゆるはちVol.21「Flutter」について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol21)
+* [ゆるはちVol.20「リモートワーク＆開発/制作環境」について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol20)
+* [ゆるはちVol.19「ノンデザイナーのためのデザイン」について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol19)
 
 ## 舞台・公演
 
@@ -76,6 +78,8 @@ layout: default
 
 ## メディア掲載・外部媒体紹介
 
+* [【きっかけはYOUTRUST vol.10】株式会社ビルディット代表 富田さん(副業シニアエンジニア2名を採用) (2020)](https://note.com/youtrust_lab/n/nd90342e57500)
+* [八王子ジャーニー: 八王子の企業はどんなリモートワークをしてるの？聞いてみました (2020)](https://8dabe.com/2020/07/31/bldt-4/)
 * [ビジネス部デザイン課: 「ブログ発信」で応募数1.5倍増！中小SIerが挑んだデザイナー採用 (2020)](https://bizdez.vivivit.com/recruitment/280773)
 * [株式会社スマートアルゴリズム: 顧客インタビュー (2020)](https://smartalgorithm.co.jp/success/buildit/)
 * [八王子ジャーニー: エンジニア/クリエイターに八王子という選択肢を (2018)](https://8dabe.com/2018/12/11/bldt-2/)
@@ -95,5 +99,5 @@ layout: default
 
 ## 連絡先
 
-[about.me/tmtysk](https://about.me/tmtysk) からお好きな連絡手段でどうぞ. ご紹介がない場合、返信できかねる場合があります. ご了承ください.
+[about.me/tmtysk](https://about.me/tmtysk) からお好きな連絡手段でどうぞ．ご紹介がない場合，返信できかねる場合があります．ご了承ください．
 
