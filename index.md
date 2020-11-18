@@ -38,6 +38,8 @@ layout: default
 
 ## 登壇・発表・講師
 
+* [第2618回 東京八王子西ロータリークラブ: これからのオンライン例会に向けて (2020)](http://www.hachioji-west-rc.org/report2021/weekly2021-7.pdf) - 卓話講師
+* [第24回ゆるはち.it: おすすめ技術書・デザイン書についてゆるく話す (2020)](https://yuruhachi-it.connpass.com/event/192478/) - LT発表
 * [第19回ゆるはち.it: ノンデザイナーのためのデザインについてゆるく話す (2020)](https://yuruhachi-it.connpass.com/event/174196/) - 発表
 * [Shizuoka.php #2 (2020)](https://shizuokaphp.connpass.com/event/158145/) - LT発表
 * [第17回ゆるはち.it: Rustについてゆるく話す (2019)](https://yuruhachi-it.connpass.com/event/158723/) - 発表
@@ -67,6 +69,7 @@ layout: default
 
 ## ポッドキャスト
 
+* [ゆるはちVol.22「ポートフォリオづくり」について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol22)
 * [ゆるはちVol.21「Flutter」について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol21)
 * [ゆるはちVol.20「リモートワーク＆開発/制作環境」について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol20)
 * [ゆるはちVol.19「ノンデザイナーのためのデザイン」について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol19)
