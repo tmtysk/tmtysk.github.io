@@ -9,7 +9,7 @@ layout: default
 ### 現任
 
 * [株式会社ウーシア](https://ousia.me) 取締役CTO (2017/8〜)
-* [株式会社ビルディット](https://bldt.jp) 代表取締役プログラマ (2016/3〜)
+* [株式会社ビルディット](https://bldt.jp) 代表取締役 (2016/3〜)
 * [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜)
 * [Emoted](http://emoted.in) 代表 (2012/1〜)
 
@@ -31,22 +31,29 @@ layout: default
 
 ## 著書・執筆・寄稿
 
+* [社内研修の評価および人材育成の効率化を目的とした社内SNSの分析(情報処理学会論文誌教育とコンピュータ（TCE）) (2021)](http://id.nii.ac.jp/1001/00213172/)
 * [社内研修の評価及び人材育成の効率化を目的とした社内SNSの分析(研究報告コンピュータと教育（CE）) (2020)](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=204195&item_no=1&page_id=13&block_id=8)
 * [Ruby on Rails携帯サイト開発技法(ソフトバンククリエイティブ刊) (2010)](http://www.amazon.co.jp/dp/4797358785)
 * [初めてのRailsアプリケーション開発(@IT) (2009)](http://www.atmarkit.co.jp/fcoding/articles/3rdrail/01/3rdrail01a.html)
 * [ケータイのセキュリティ機能を引き出そう(JAVA PRESS Vol.19) (2001)](http://gihyo.jp/magazine/javapress)
 
-## 登壇・発表・講師
+## 登壇・発表・講師・運営など
 
+* [第1回U-16プログラミングコンテスト八王子大会 (2021)](https://u16.tokyo/) - 実行委員
+* [第1回八王子プログラミング親子大会 (2021)](https://802-family-programming.jimdosite.com/) - 協賛・審査員参加
+* [第3回八王子ビジネスプランコンテスト (2021)](https://gp.8kikaku.com/) - イベント運営
+* [第27回ゆるはち.it: PHPについてゆるく話す (2021)](https://yuruhachi-it.connpass.com/event/200703/) - 発表
 * [第2618回 東京八王子西ロータリークラブ: これからのオンライン例会に向けて (2020)](http://www.hachioji-west-rc.org/report2021/weekly2021-7.pdf) - 卓話講師
 * [第24回ゆるはち.it: おすすめ技術書・デザイン書についてゆるく話す (2020)](https://yuruhachi-it.connpass.com/event/192478/) - LT発表
 * [第19回ゆるはち.it: ノンデザイナーのためのデザインについてゆるく話す (2020)](https://yuruhachi-it.connpass.com/event/174196/) - 発表
+* [第2回八王子ビジネスプランコンテスト (2020)](https://gp.8kikaku.com/) - イベント運営
 * [Shizuoka.php #2 (2020)](https://shizuokaphp.connpass.com/event/158145/) - LT発表
 * [第17回ゆるはち.it: Rustについてゆるく話す (2019)](https://yuruhachi-it.connpass.com/event/158723/) - 発表
 * [日本の人事部 HRカンファレンス2019-秋- Techday (2019)](https://jinjibu.jp/hr-conference/report/r201911/report.php?sid=1706) - 事例発表
+* [Startup Weekend Tokyo Hachioji (2019)](https://swtokyo.doorkeeper.jp/events/96744) - メンター参加
 * [第12回ゆるはち.it: スプレッドシート駆動開発についてゆるく話す (2019)](https://yuruhachi-it.connpass.com/event/137255/) - LT発表
 * [エンジニア × PRパーソン 「VUCA時代を生き抜くためのブランディング」 (2019)](https://connpass.com/event/137915/) - LT発表
-* [八王子ビジネスプランコンテスト (2019)](https://gp.8kikaku.com/) - 審査員参加
+* [第1回八王子ビジネスプランコンテスト (2019)](https://gp.8kikaku.com/) - 審査員参加
 * [第8回ゆるはち.it: CI/CDについてゆるく話す (2019)](https://yuruhachi-it.connpass.com/event/123888/) - 発表
 * [第4回ゆるはち.it: RailsでつくるモダンぽいWebサービスについてゆるく話す (2018)](https://yuruhachi-it.connpass.com/event/107596/) - 発表
 * [第1回ゆるはち.it: PWAについてゆるく話す (2018)](https://yuruhachi-it.connpass.com/event/96878/) - 発表
