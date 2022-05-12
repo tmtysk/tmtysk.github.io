@@ -8,9 +8,11 @@ layout: default
 
 ### 現任
 
-* [株式会社ウーシア](https://ousia.me) 取締役CTO (2017/8〜)
 * [株式会社ビルディット](https://bldt.jp) 代表取締役 (2016/3〜)
+* [株式会社ウーシア](https://ousia.me) 取締役CTO (2017/8〜)
 * [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜)
+* [TOKYO創業ステーションTAMA](https://startup-station.jp/ts/) コンシェルジュ (2022/4〜)
+* [ロボタミ プログラミングラボ 八王子みなみ野校](https://robotami-lab.net/class_infomation/) 代表コーチ (2022/1〜)
 * [Emoted](http://emoted.in) 代表 (2012/1〜)
 
 ### 過去
