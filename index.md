@@ -9,7 +9,6 @@ layout: default
 ### 現任
 
 * [株式会社ビルディット](https://bldt.jp) 代表取締役 (2016/3〜)
-* [株式会社ウーシア](https://ousia.me) 取締役CTO (2017/8〜)
 * [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜)
 * [TOKYO創業ステーションTAMA](https://startup-station.jp/ts/) コンシェルジュ (2022/4〜)
 * [ロボタミ プログラミングラボ 八王子みなみ野校](https://robotami-lab.net/class_infomation/) 代表コーチ (2022/1〜)
@@ -17,6 +16,7 @@ layout: default
 
 ### 過去
 
+* [株式会社ウーシア](https://ousia.me) 取締役CTO (2017/8〜2023/2)
 * [ジギョナリーカンパニー株式会社](http://www.jigyonary.com/) 技術顧問/外部CTO (2019/2〜2019/12)
 * [クーガー株式会社](http://www.couger.co.jp/) ロボティクスエンジニア (2016/11〜2018/12)
 * [株式会社ピースオブケイク](https://www.pieceofcake.co.jp/) プロジェクトマネージャ (2016/9〜2018/5)
@@ -41,8 +41,14 @@ layout: default
 
 ## 登壇・発表・講師・運営など
 
+* [スタハで開催！【U-25限定】超実践型！「TAMA起業ゼミ」～起業を知り、体感する2か月～＜第9期＞ (2023)](https://startup-station.jp/eventseminar/TAA0103?event_id=E000102414) - 講師
+* [【TAMAスタ・ゼミ】はじめての起業（全5回）〜⑤起業に必要なお金の集め方〜 (2022)](https://startup-station.jp/eventseminar/TAA0103?event_id=E000102293) - 講師
+* [【Skill Upセミナー】アプリ開発を依頼する際に絶対に知っておきたいお作法と知識 (2022)](https://startup-station.jp/eventseminar/TAA0103?event_id=E000102359) - 講師
+* [第2回U-16プログラミングコンテスト八王子大会 (2022)](https://u16.tokyo/) - 実行委員
+* [第2回八王子プログラミング親子大会 (2022)](https://www.802p-oyakotaikai.com/) - 協賛・審査員参加
+* [Startup Weekend TAMA (2022)](https://swtama.doorkeeper.jp/events/140759) - メンター参加
 * [第1回U-16プログラミングコンテスト八王子大会 (2021)](https://u16.tokyo/) - 実行委員
-* [第1回八王子プログラミング親子大会 (2021)](https://802-family-programming.jimdosite.com/) - 協賛・審査員参加
+* [第1回八王子プログラミング親子大会 (2021)](https://www.802p-oyakotaikai.com/) - 協賛・審査員参加
 * [第3回八王子ビジネスプランコンテスト (2021)](https://gp.8kikaku.com/) - イベント運営
 * [第27回ゆるはち.it: PHPについてゆるく話す (2021)](https://yuruhachi-it.connpass.com/event/200703/) - 発表
 * [第2618回 東京八王子西ロータリークラブ: これからのオンライン例会に向けて (2020)](http://www.hachioji-west-rc.org/report2021/weekly2021-7.pdf) - 卓話講師
@@ -78,6 +84,7 @@ layout: default
 
 ## ポッドキャスト
 
+* [聴くInside BuildIt (2022~)](http://bldt.koelab.info/)
 * [ゆるはちVol.22「ポートフォリオづくり」について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol22)
 * [ゆるはちVol.21「Flutter」について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol21)
 * [ゆるはちVol.20「リモートワーク＆開発/制作環境」について、ゆるく語る (2020)](https://soundcloud.com/builditinc/vol20)
@@ -90,6 +97,7 @@ layout: default
 
 ## メディア掲載・外部媒体紹介
 
+* [起業コンシェルジュインタビュー 富田 陽介氏 (2022)](https://startup-station.jp/ts/tsushin/recommend/20220612-tomita/)
 * [【きっかけはYOUTRUST vol.10】株式会社ビルディット代表 富田さん(副業シニアエンジニア2名を採用) (2020)](https://note.com/youtrust_lab/n/nd90342e57500)
 * [八王子ジャーニー: 八王子の企業はどんなリモートワークをしてるの？聞いてみました (2020)](https://8dabe.com/2020/07/31/bldt-4/)
 * [ビジネス部デザイン課: 「ブログ発信」で応募数1.5倍増！中小SIerが挑んだデザイナー採用 (2020)](https://bizdez.vivivit.com/recruitment/280773)
