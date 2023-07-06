@@ -111,6 +111,13 @@ layout: default
 * [日経SYSTEMS 2016年3月号：(特集１)新SaaSで変わるIT現場　開発は「まず探す」 (2016)](http://ec.nikkeibp.co.jp/item/backno/OS0275.html)
 * [エンジニアライフ応援サイト Tech総研 (2007)](https://next.rikunabi.com/tech/docs/ct_s03600.jsp?p=001119)
 
+## 認定
+
+* [一般財団法人日本プロスピーカー協会認定ベーシックプロスピーカー (2023)](https://www.jpsa.net/)
+* [銀座コーチングスクール認定プロフェッショナルコーチ (2022)](https://www.ginza-coach.com/)
+* [経済産業省認定情報処理技術者(アプリケーションエンジニア) (2006)](https://www.ipa.go.jp/shiken/kubun/old.html)
+* [経済産業省認定情報処理技術者(ネットワークスペシャリスト) (2002)](https://www.ipa.go.jp/shiken/kubun/nw.html)
+
 ## 受賞
 
 * [Service Worker Hackathon (2015)](https://developers-jp.googleblog.com/2015/03/service-worker.html) - Appiness賞
