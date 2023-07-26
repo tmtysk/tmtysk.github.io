@@ -1,7 +1,7 @@
 # Site settings
 title: Yosuke TOMITA
 tag_text: Yosuke TOMITA
-description: Yosuke TOMITA は，日本の東京都で活動しているサービスプロデューサー, ソフトウェアエンジニア，システムアーキテクト，役者です．
+description: Yosuke TOMITA は，日本の東京都で活動しているWebサービスプロデューサー, ソフトウェアエンジニア，システムアーキテクト，役者です．
 
 # Build settings
 markdown: kramdown

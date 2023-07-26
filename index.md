@@ -12,6 +12,7 @@ layout: default
 * [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜)
 * [TOKYO創業ステーションTAMA](https://startup-station.jp/ts/) コンシェルジュ (2022/4〜)
 * [ロボタミ プログラミングラボ 八王子みなみ野校](https://robotami-lab.net/class_infomation/) 代表コーチ (2022/1〜)
+* [BNI JAPAN](https://bni.jp/) 多摩西リージョン ディレクターコンサルタント (2022/8〜)
 * [Emoted](http://emoted.in) 代表 (2012/1〜)
 
 ### 過去
