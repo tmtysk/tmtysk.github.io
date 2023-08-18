@@ -28,9 +28,10 @@ layout: default
 * [KLab株式会社](http://www.klab.com/) システムエンジニア (2005/7〜2008/1)
 * [株式会社エヌ・ティ・ティ・ドコモ東海](http://www.nttdocomo.co.jp/) プリセールスエンジニア (2000/4〜2005/6)
 
-## OSS
+## OSS (Open Source Software)
 
-[https://github.com/tmtysk](https://github.com/tmtysk)
+* [https://github.com/tmtysk](https://github.com/tmtysk)
+* [https://lapras.com/](LAPRAS)による技術力評価スコア 4.10 (約170万人中840位(上位0.05%以内))
 
 ## 著書・執筆・寄稿
 
