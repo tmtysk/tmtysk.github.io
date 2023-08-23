@@ -31,7 +31,7 @@ layout: default
 ## OSS (Open Source Software)
 
 * [https://github.com/tmtysk](https://github.com/tmtysk)
-* [https://lapras.com/](LAPRAS)による技術力評価スコア 4.10 (約170万人中840位(上位0.05%以内))
+* [LAPRAS](https://lapras.com/)による技術力評価スコア 4.10 (約170万人中840位(上位0.05%以内))
 
 ## 著書・執筆・寄稿
 
@@ -43,6 +43,8 @@ layout: default
 
 ## 登壇・発表・講師・運営など
 
+* [専修大学経営学部ビジネスデザイン学科「事業創造」 (2023)](https://www.facebook.com/permalink.php?story_fbid=pfbid0LGqWnrmXSfVedauCgrSFJZ7VpCBPn6ic9kgeNYujpgLj8A6sUQzFzWstrNoG4u3El&id=100063469121847) - ゲスト講師
+* [桜美林大学ビジネスマネジメント学群「ベンチャー企業論」 (2023)](https://www.facebook.com/permalink.php?story_fbid=pfbid02a7BTbeHQvXJPD7vmJrryhdbhSZkgMPyNDsMXVCDrJoYBgpeDziKczvkJ7Qwf74WDl&id=108239180957033) - ゲスト講師
 * [スタハで開催！【U-25限定】超実践型！「TAMA起業ゼミ」～起業を知り、体感する2か月～＜第9期＞ (2023)](https://startup-station.jp/eventseminar/TAA0103?event_id=E000102414) - 講師
 * [【TAMAスタ・ゼミ】はじめての起業（全5回）〜⑤起業に必要なお金の集め方〜 (2022)](https://startup-station.jp/eventseminar/TAA0103?event_id=E000102293) - 講師
 * [【Skill Upセミナー】アプリ開発を依頼する際に絶対に知っておきたいお作法と知識 (2022)](https://startup-station.jp/eventseminar/TAA0103?event_id=E000102359) - 講師
