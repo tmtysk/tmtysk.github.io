@@ -106,8 +106,9 @@ layout: default
 
 ## メディア掲載・外部媒体紹介
 
+* [教育業界をDXする株式会社ビルディットが目指す、個人の成長が尊重される世界 (2023)](https://jobseek.ne.jp/corporate-data/bldt/)
 * [起業コンシェルジュインタビュー 富田 陽介氏 (2022)](https://startup-station.jp/ts/tsushin/recommend/20220612-tomita/)
-* [【きっかけはYOUTRUST vol.10】株式会社ビルディット代表 富田さん(副業シニアエンジニア2名を採用) (2020)](https://note.com/youtrust_lab/n/nd90342e57500)
+* [スカウトメールの工数を大幅削減！募集投稿を活用し採用に成功【きっかけはYOUTRUST】ビルディット代表・富田陽介さん (2020)](https://lp.youtrust.jp/journal/posts/case-buildit)
 * [八王子ジャーニー: 八王子の企業はどんなリモートワークをしてるの？聞いてみました (2020)](https://8dabe.com/2020/07/31/bldt-4/)
 * [ビジネス部デザイン課: 「ブログ発信」で応募数1.5倍増！中小SIerが挑んだデザイナー採用 (2020)](https://bizdez.vivivit.com/recruitment/280773)
 * [株式会社スマートアルゴリズム: 顧客インタビュー (2020)](https://smartalgorithm.co.jp/success/buildit/)
