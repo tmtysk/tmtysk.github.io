@@ -41,8 +41,13 @@ layout: default
 * [初めてのRailsアプリケーション開発(@IT) (2009)](http://www.atmarkit.co.jp/fcoding/articles/3rdrail/01/3rdrail01a.html)
 * [ケータイのセキュリティ機能を引き出そう(JAVA PRESS Vol.19) (2001)](http://gihyo.jp/magazine/javapress)
 
+## 発明
+
+* [研修支援装置、方法およびプログラム(特開2018-032299) (2018)](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2018-032299/7FF7B6DF2FA2FF54E32E99FC9F5FEC1D413395BD8A4DB1EBF348736F38E80B6F/11/ja)
+
 ## 登壇・発表・講師・運営など
 
+* [第3回八王子プログラミング親子大会 (2023)](https://www.802p-oyakotaikai.com/) - 実行委員・決勝大会審査員
 * [専修大学経営学部ビジネスデザイン学科「事業創造」 (2023)](https://www.facebook.com/permalink.php?story_fbid=pfbid0LGqWnrmXSfVedauCgrSFJZ7VpCBPn6ic9kgeNYujpgLj8A6sUQzFzWstrNoG4u3El&id=100063469121847) - ゲスト講師
 * [桜美林大学ビジネスマネジメント学群「ベンチャー企業論」 (2023)](https://www.facebook.com/permalink.php?story_fbid=pfbid02a7BTbeHQvXJPD7vmJrryhdbhSZkgMPyNDsMXVCDrJoYBgpeDziKczvkJ7Qwf74WDl&id=108239180957033) - ゲスト講師
 * [スタハで開催！【U-25限定】超実践型！「TAMA起業ゼミ」～起業を知り、体感する2か月～＜第9期＞ (2023)](https://startup-station.jp/eventseminar/TAA0103?event_id=E000102414) - 講師
