@@ -47,6 +47,10 @@ layout: default
 
 ## 登壇・発表・講師・運営など
 
+* [Tech Achieversの会#55 優秀な若手社員に選ばれる新時代のリーダーとは ～新入社員が自ら仕事を取りに来るチームの作り方～ (2024)](https://techachievers.connpass.com/event/312949/) - 登壇発表
+* [小さく生んで大きく育てる：中小企業が連携するコミュニティの育成 (2024)](https://oif-tama-event.rsvsys.jp/reservations/event/21) - 講師
+* [東京経済大学「加藤ゼミ」講演 「働く」に向き合ってきた24年間と、人生の目的を考えるということ (2024)](https://www.facebook.com/permalink.php?story_fbid=pfbid0ohrxafW6m3XorvpeSFawhGqBcriAH1kRuAQ7LgR1dF9E1rYrGLFznGD7z3hXXg4kl&id=100063469121847) - 講師
+* [東京工科大学「価値創造演習」講演 ユーザー価値志向のプロダクト開発チームビルディング (2023)](https://www.facebook.com/permalink.php?story_fbid=pfbid02zFL2sR1B7Tbh3iLVr5BsnZKDU7fw3DqwrxVviHaoTdAP6ze61ssDuFEYr8peg71zl&id=100063469121847) - 講師
 * [第3回八王子プログラミング親子大会 (2023)](https://www.802p-oyakotaikai.com/) - 実行委員・決勝大会審査員
 * [専修大学経営学部ビジネスデザイン学科「事業創造」 (2023)](https://www.facebook.com/permalink.php?story_fbid=pfbid0LGqWnrmXSfVedauCgrSFJZ7VpCBPn6ic9kgeNYujpgLj8A6sUQzFzWstrNoG4u3El&id=100063469121847) - ゲスト講師
 * [桜美林大学ビジネスマネジメント学群「ベンチャー企業論」 (2023)](https://www.facebook.com/permalink.php?story_fbid=pfbid02a7BTbeHQvXJPD7vmJrryhdbhSZkgMPyNDsMXVCDrJoYBgpeDziKczvkJ7Qwf74WDl&id=108239180957033) - ゲスト講師
@@ -106,6 +110,7 @@ layout: default
 
 ## メディア掲載・外部媒体紹介
 
+* [あえて、八王子。多摩から日本の教育を支えるIT企業 (2024)](https://tama-innovation-ecosystem.jp/tama-area/interview/2539/)
 * [教育業界をDXする株式会社ビルディットが目指す、個人の成長が尊重される世界 (2023)](https://jobseek.ne.jp/corporate-data/bldt/)
 * [起業コンシェルジュインタビュー 富田 陽介氏 (2022)](https://startup-station.jp/ts/tsushin/recommend/20220612-tomita/)
 * [スカウトメールの工数を大幅削減！募集投稿を活用し採用に成功【きっかけはYOUTRUST】ビルディット代表・富田陽介さん (2020)](https://lp.youtrust.jp/journal/posts/case-buildit)
