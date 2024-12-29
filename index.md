@@ -47,6 +47,9 @@ layout: default
 
 ## 登壇・発表・講師・運営など
 
+* [Tech Achieversの会#64 ふりかえりアプリStockr 開発者に聞く、更に成長できる ふりかえりの技術 (2024)](https://techachievers.connpass.com/event/336815/) - 登壇発表
+* 日本プロスピーカー協会 さがみ支部 講演 顧客満足度90%のシステム開発会社が実践する「技術力開発」の取り組み (2024) - 講師
+* 東京工科大学「価値創造演習」講演 私の起業とプロダクト開発チームビルディング (2024) - 講師
 * [Tech Achieversの会#55 優秀な若手社員に選ばれる新時代のリーダーとは ～新入社員が自ら仕事を取りに来るチームの作り方～ (2024)](https://techachievers.connpass.com/event/312949/) - 登壇発表
 * [小さく生んで大きく育てる：中小企業が連携するコミュニティの育成 (2024)](https://oif-tama-event.rsvsys.jp/reservations/event/21) - 講師
 * [東京経済大学「加藤ゼミ」講演 「働く」に向き合ってきた24年間と、人生の目的を考えるということ (2024)](https://www.facebook.com/permalink.php?story_fbid=pfbid0ohrxafW6m3XorvpeSFawhGqBcriAH1kRuAQ7LgR1dF9E1rYrGLFznGD7z3hXXg4kl&id=100063469121847) - 講師
