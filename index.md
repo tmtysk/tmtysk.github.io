@@ -8,7 +8,7 @@ layout: default
 
 ### 現任
 
-* [株式会社ビルディット](https://bldt.jp) 代表取締役 (2016/3〜)
+* [株式会社ビルディット](https://bldt.jp) 代表取締役CEO (2016/3〜)
 * [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜)
 * [TOKYO創業ステーションTAMA](https://startup-station.jp/ts/) コンシェルジュ (2022/4〜)
 * [ロボタミ プログラミングラボ 八王子みなみ野校](https://robotami-lab.net/class_infomation/) 代表コーチ (2022/1〜)
@@ -43,6 +43,7 @@ layout: default
 
 ## 発明
 
+* [プログラム、情報処理装置、及び方法(特願2024-121145) (2025)](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7618320/15/ja)
 * [研修支援装置、方法およびプログラム(特開2018-032299) (2018)](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2018-032299/7FF7B6DF2FA2FF54E32E99FC9F5FEC1D413395BD8A4DB1EBF348736F38E80B6F/11/ja)
 
 ## 登壇・発表・講師・運営など
