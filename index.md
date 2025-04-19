@@ -10,9 +10,11 @@ layout: default
 
 * [株式会社ビルディット](https://bldt.jp) 代表取締役CEO (2016/3〜)
 * [株式会社メンバーズキャリア](https://www.memberscareer.co.jp/) 技術顧問 (2018/8〜)
+* [八王子プログラミング親子大会](https://www.802p-oyakotaikai.com/) 実行委員 (2021/9〜)
 * [TOKYO創業ステーションTAMA](https://startup-station.jp/ts/) コンシェルジュ (2022/4〜)
 * [ロボタミ プログラミングラボ 八王子みなみ野校](https://robotami-lab.net/class_infomation/) 代表コーチ (2022/1〜)
 * [BNI JAPAN](https://bni.jp/) 多摩西リージョン ディレクターコンサルタント (2022/8〜)
+* [教育テック大学院大学](https://www.e-mbatech.ac.jp/) 教育情報・経営リーダーシップ研究科 (2025/4〜)
 * [Emoted](http://emoted.in) 代表 (2012/1〜)
 
 ### 過去
