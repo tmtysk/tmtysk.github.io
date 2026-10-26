@@ -3,6 +3,8 @@ title: Yosuke TOMITA
 tag_text: Yosuke TOMITA
 description: 東京都八王子市で活動している起業家です. 教育テックのプロフェッショナル, 研究者, ふりかえりコーチ.
 
+url: https://tmtysk.io
+
 # Build settings
 markdown: kramdown
 exclude: ["README.md"]

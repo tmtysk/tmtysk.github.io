@@ -1,5 +1,7 @@
 ---
 layout: default
+lang: ja
+hreflang: true
 ---
 
 {{ site.description }}
