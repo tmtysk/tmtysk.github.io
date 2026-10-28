@@ -3,17 +3,20 @@ layout: default
 lang: en
 hreflang: true
 permalink: /en/
-title: Yosuke TOMITA — Reflective learning and AI-supported coaching
-description: Yosuke Tomita is an entrepreneur and researcher in Hachioji, Tokyo, specializing in reflective learning and AI-supported coaching. Founder of Stockr, an AI-assisted reflection platform.
+title: Yosuke TOMITA — Bridging education and technology
+description: Yosuke Tomita bridges education and technology. Entrepreneur, researcher, and reflection coach specializing in reflective learning and AI-supported coaching. Based in Hachioji, Tokyo.
 ---
 
-Yosuke Tomita is an entrepreneur and researcher specializing in reflective learning and AI-supported coaching. He is the founder of [Stockr](https://stockr.bldt.jp/), an AI-assisted reflection platform, and researches learning analytics and educational ecosystem design. Based in Hachioji, Tokyo.
+Practitioner of education and technology. Reflection coach.
+
+Yosuke Tomita works as a bridge between education and technology. He is an entrepreneur and researcher specializing in reflective learning and AI-supported coaching, and researches learning analytics and educational ecosystem design. Drawing on more than 25 years of building and safeguarding services in IT, he supports organizations in staying secure and developing their people in the age of AI. Companies can work with him through [BuildIt Academy](https://bldt.jp/academy?utm_source=tmtysk-io&utm_medium=referral&utm_campaign=crosslink&utm_content=intro_en). He is the founder of [Stockr](https://stockr.bldt.jp/), an AI-assisted reflection app with more than 70,000 downloads, and shares daily reflection tips on [X](https://x.com/tmtysk) (in Japanese). Based in Hachioji, Tokyo.
 
 ## Positions
 
 ### Current
 
 * CEO, [Build It, Inc.](https://bldt.jp) (Mar 2016–)
+  * [BuildIt Academy](https://bldt.jp/academy?utm_source=tmtysk-io&utm_medium=referral&utm_campaign=crosslink&utm_content=profile_en) — AI adoption and talent development for companies
 * Executive Committee Member, [Hachioji Parent-Child Programming Contest](https://www.802p-oyakotaikai.com/) (Sep 2021–)
 * Startup Concierge, [TOKYO Startup Station TAMA](https://startup-station.jp/ts/) (Apr 2022–)
 * Graduate student, [The Graduate School of Management and Education Technology](https://www.e-mbatech.ac.jp/) (Apr 2025–)

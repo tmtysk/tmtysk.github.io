@@ -4,13 +4,16 @@ lang: ja
 hreflang: true
 ---
 
-{{ site.description }}
+教育×テクノロジーの実践者、ふりかえりコーチ。
+
+教育の現場とテクノロジーの架け橋になることを仕事にしています。専門は、ふりかえり×AI伴走の研究と実装です。ITの現場で25年以上サービスをつくり、守ってきた経験から、AI時代の守りと人材育成に取り組んでいます。企業のAI推進と人材育成のご相談は [BuildIt Academy](https://bldt.jp/academy?utm_source=tmtysk-io&utm_medium=referral&utm_campaign=crosslink&utm_content=intro) で承っています。ふりかえりはアプリ [Stockr](https://stockr.bldt.jp/)（7万ダウンロード以上）と、[X](https://x.com/tmtysk) での毎日の発信でお届けしています。東京都八王子市を拠点に活動しています。
 
 ## 肩書
 
 ### 現任
 
 * [株式会社ビルディット](https://bldt.jp) 代表取締役CEO (2016/3〜)
+  * 法人向けAI推進・人材育成 [BuildIt Academy](https://bldt.jp/academy?utm_source=tmtysk-io&utm_medium=referral&utm_campaign=crosslink&utm_content=profile)
 * [八王子プログラミング親子大会](https://www.802p-oyakotaikai.com/) 実行委員 (2021/9〜)
 * [TOKYO創業ステーションTAMA](https://startup-station.jp/ts/) コンシェルジュ (2022/4〜)
 * [教育テック大学院大学](https://www.e-mbatech.ac.jp/) 教育情報・経営リーダーシップ研究科 (2025/4〜)
